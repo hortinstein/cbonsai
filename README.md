@@ -2,6 +2,8 @@
 
 # cbonsai
 
+This is a fork of the excellent [cbonsai](https://gitlab.com/jallbrit/cbonsai/) by [jallbrit](https://gitlab.com/jallbrit) 
+
 <img src="https://i.imgur.com/rnqJx3P.gif" align="right" width="400px">
 
 `cbonsai` is a bonsai tree generator, written in `C` using `ncurses`. It intelligently creates, colors, and positions a bonsai tree, and is entirely configurable via CLI options-- see [usage](#usage). There are 2 modes of operation: `static` (the default), and `live`. See [modes](#modes) for details.
